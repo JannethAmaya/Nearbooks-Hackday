@@ -1,0 +1,158 @@
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WebApplication2\Nearbook\Nearbook\bin\roslyn\csc.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WebApplication2\Nearbook\Nearbook\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WebApplication2\Nearbook\Nearbook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WebApplication2\Nearbook\Nearbook\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WebApplication2\Nearbook\Nearbook\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WebApplication2\Nearbook\Nearbook\bin\roslyn\Microsoft.CSharp.Core.targets
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WebApplication2\Nearbook\Nearbook\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WebApplication2\Nearbook\Nearbook\bin\roslyn\System.Collections.Immutable.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WebApplication2\Nearbook\Nearbook\bin\roslyn\System.Reflection.Metadata.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WebApplication2\Nearbook\Nearbook\bin\roslyn\vbc.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WebApplication2\Nearbook\Nearbook\bin\roslyn\VBCSCompiler.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WebApplication2\Nearbook\Nearbook\bin\roslyn\VBCSCompiler.exe.config
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WebApplication2\Nearbook\Nearbook\bin\Nearbook.dll.config
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WebApplication2\Nearbook\Nearbook\bin\Nearbook.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WebApplication2\Nearbook\Nearbook\bin\Nearbook.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WebApplication2\Nearbook\Nearbook\bin\Antlr3.Runtime.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WebApplication2\Nearbook\Nearbook\bin\EntityFramework.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WebApplication2\Nearbook\Nearbook\bin\EntityFramework.SqlServer.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WebApplication2\Nearbook\Nearbook\bin\Microsoft.AspNet.Identity.Core.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WebApplication2\Nearbook\Nearbook\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WebApplication2\Nearbook\Nearbook\bin\Microsoft.AspNet.Identity.Owin.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WebApplication2\Nearbook\Nearbook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WebApplication2\Nearbook\Nearbook\bin\Microsoft.Owin.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WebApplication2\Nearbook\Nearbook\bin\Microsoft.Owin.Host.SystemWeb.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WebApplication2\Nearbook\Nearbook\bin\Microsoft.Owin.Security.Cookies.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WebApplication2\Nearbook\Nearbook\bin\Microsoft.Owin.Security.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WebApplication2\Nearbook\Nearbook\bin\Microsoft.Owin.Security.Facebook.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WebApplication2\Nearbook\Nearbook\bin\Microsoft.Owin.Security.Google.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WebApplication2\Nearbook\Nearbook\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WebApplication2\Nearbook\Nearbook\bin\Microsoft.Owin.Security.OAuth.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WebApplication2\Nearbook\Nearbook\bin\Microsoft.Owin.Security.Twitter.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WebApplication2\Nearbook\Nearbook\bin\Microsoft.Web.Infrastructure.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WebApplication2\Nearbook\Nearbook\bin\Newtonsoft.Json.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WebApplication2\Nearbook\Nearbook\bin\Owin.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WebApplication2\Nearbook\Nearbook\bin\System.Net.Http.Formatting.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WebApplication2\Nearbook\Nearbook\bin\System.Web.Helpers.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WebApplication2\Nearbook\Nearbook\bin\System.Web.Http.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WebApplication2\Nearbook\Nearbook\bin\System.Web.Http.Owin.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WebApplication2\Nearbook\Nearbook\bin\System.Web.Http.WebHost.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WebApplication2\Nearbook\Nearbook\bin\System.Web.Mvc.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WebApplication2\Nearbook\Nearbook\bin\System.Web.Optimization.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WebApplication2\Nearbook\Nearbook\bin\System.Web.Razor.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WebApplication2\Nearbook\Nearbook\bin\System.Web.WebPages.Deployment.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WebApplication2\Nearbook\Nearbook\bin\System.Web.WebPages.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WebApplication2\Nearbook\Nearbook\bin\System.Web.WebPages.Razor.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WebApplication2\Nearbook\Nearbook\bin\WebGrease.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WebApplication2\Nearbook\Nearbook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WebApplication2\Nearbook\Nearbook\bin\Newtonsoft.Json.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WebApplication2\Nearbook\Nearbook\bin\System.Net.Http.Formatting.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WebApplication2\Nearbook\Nearbook\bin\System.Web.Helpers.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WebApplication2\Nearbook\Nearbook\bin\System.Web.Http.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WebApplication2\Nearbook\Nearbook\bin\System.Web.Http.WebHost.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WebApplication2\Nearbook\Nearbook\bin\System.Web.Mvc.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WebApplication2\Nearbook\Nearbook\bin\System.Web.Optimization.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WebApplication2\Nearbook\Nearbook\bin\System.Web.Razor.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WebApplication2\Nearbook\Nearbook\bin\System.Web.WebPages.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WebApplication2\Nearbook\Nearbook\bin\System.Web.WebPages.Deployment.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WebApplication2\Nearbook\Nearbook\bin\System.Web.WebPages.Razor.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WebApplication2\Nearbook\Nearbook\bin\Antlr3.Runtime.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WebApplication2\Nearbook\Nearbook\bin\EntityFramework.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WebApplication2\Nearbook\Nearbook\bin\EntityFramework.SqlServer.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WebApplication2\Nearbook\Nearbook\bin\Microsoft.AspNet.Identity.Core.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WebApplication2\Nearbook\Nearbook\bin\Microsoft.AspNet.Identity.Owin.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WebApplication2\Nearbook\Nearbook\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WebApplication2\Nearbook\Nearbook\bin\Microsoft.Owin.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WebApplication2\Nearbook\Nearbook\bin\Microsoft.Owin.Host.SystemWeb.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WebApplication2\Nearbook\Nearbook\bin\Microsoft.Owin.Security.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WebApplication2\Nearbook\Nearbook\bin\Microsoft.Owin.Security.Facebook.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WebApplication2\Nearbook\Nearbook\bin\Microsoft.Owin.Security.Cookies.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WebApplication2\Nearbook\Nearbook\bin\Microsoft.Owin.Security.OAuth.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WebApplication2\Nearbook\Nearbook\bin\Microsoft.Owin.Security.Google.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WebApplication2\Nearbook\Nearbook\bin\Microsoft.Owin.Security.Twitter.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WebApplication2\Nearbook\Nearbook\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WebApplication2\Nearbook\Nearbook\bin\System.Web.Http.Owin.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WebApplication2\Nearbook\Nearbook\obj\Debug\Nearbook.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WebApplication2\Nearbook\Nearbook\obj\Debug\Nearbook.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WebApplication2\Nearbook\Nearbook\obj\Debug\Nearbook.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WebApplication2\Nearbook\Nearbook\obj\Debug\Nearbook.Migrations.InitialCreate.resources
+\\Mac\Home\Documents\Visual Studio 2015\Projects\WebApplication2\Nearbook\Nearbook\obj\Debug\Nearbook.csproj.GenerateResource.Cache
+\\Mac\Home\Desktop\Nearbook\Nearbook\bin\roslyn\csc.exe
+\\Mac\Home\Desktop\Nearbook\Nearbook\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\Mac\Home\Desktop\Nearbook\Nearbook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\Mac\Home\Desktop\Nearbook\Nearbook\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\Mac\Home\Desktop\Nearbook\Nearbook\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\Mac\Home\Desktop\Nearbook\Nearbook\bin\roslyn\Microsoft.CSharp.Core.targets
+\\Mac\Home\Desktop\Nearbook\Nearbook\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\Mac\Home\Desktop\Nearbook\Nearbook\bin\roslyn\System.Collections.Immutable.dll
+\\Mac\Home\Desktop\Nearbook\Nearbook\bin\roslyn\System.Reflection.Metadata.dll
+\\Mac\Home\Desktop\Nearbook\Nearbook\bin\roslyn\vbc.exe
+\\Mac\Home\Desktop\Nearbook\Nearbook\bin\roslyn\VBCSCompiler.exe
+\\Mac\Home\Desktop\Nearbook\Nearbook\bin\roslyn\VBCSCompiler.exe.config
+\\Mac\Home\Desktop\Nearbook\Nearbook\bin\Nearbook.dll.config
+\\Mac\Home\Desktop\Nearbook\Nearbook\bin\Nearbook.dll
+\\Mac\Home\Desktop\Nearbook\Nearbook\bin\Nearbook.pdb
+\\Mac\Home\Desktop\Nearbook\Nearbook\bin\Antlr3.Runtime.dll
+\\Mac\Home\Desktop\Nearbook\Nearbook\bin\EntityFramework.dll
+\\Mac\Home\Desktop\Nearbook\Nearbook\bin\EntityFramework.SqlServer.dll
+\\Mac\Home\Desktop\Nearbook\Nearbook\bin\Microsoft.AspNet.Identity.Core.dll
+\\Mac\Home\Desktop\Nearbook\Nearbook\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+\\Mac\Home\Desktop\Nearbook\Nearbook\bin\Microsoft.AspNet.Identity.Owin.dll
+\\Mac\Home\Desktop\Nearbook\Nearbook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\Mac\Home\Desktop\Nearbook\Nearbook\bin\Microsoft.Owin.dll
+\\Mac\Home\Desktop\Nearbook\Nearbook\bin\Microsoft.Owin.Host.SystemWeb.dll
+\\Mac\Home\Desktop\Nearbook\Nearbook\bin\Microsoft.Owin.Security.Cookies.dll
+\\Mac\Home\Desktop\Nearbook\Nearbook\bin\Microsoft.Owin.Security.dll
+\\Mac\Home\Desktop\Nearbook\Nearbook\bin\Microsoft.Owin.Security.Facebook.dll
+\\Mac\Home\Desktop\Nearbook\Nearbook\bin\Microsoft.Owin.Security.Google.dll
+\\Mac\Home\Desktop\Nearbook\Nearbook\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+\\Mac\Home\Desktop\Nearbook\Nearbook\bin\Microsoft.Owin.Security.OAuth.dll
+\\Mac\Home\Desktop\Nearbook\Nearbook\bin\Microsoft.Owin.Security.Twitter.dll
+\\Mac\Home\Desktop\Nearbook\Nearbook\bin\Microsoft.Web.Infrastructure.dll
+\\Mac\Home\Desktop\Nearbook\Nearbook\bin\Newtonsoft.Json.dll
+\\Mac\Home\Desktop\Nearbook\Nearbook\bin\Owin.dll
+\\Mac\Home\Desktop\Nearbook\Nearbook\bin\System.Net.Http.Formatting.dll
+\\Mac\Home\Desktop\Nearbook\Nearbook\bin\System.Web.Helpers.dll
+\\Mac\Home\Desktop\Nearbook\Nearbook\bin\System.Web.Http.dll
+\\Mac\Home\Desktop\Nearbook\Nearbook\bin\System.Web.Http.Owin.dll
+\\Mac\Home\Desktop\Nearbook\Nearbook\bin\System.Web.Http.WebHost.dll
+\\Mac\Home\Desktop\Nearbook\Nearbook\bin\System.Web.Mvc.dll
+\\Mac\Home\Desktop\Nearbook\Nearbook\bin\System.Web.Optimization.dll
+\\Mac\Home\Desktop\Nearbook\Nearbook\bin\System.Web.Razor.dll
+\\Mac\Home\Desktop\Nearbook\Nearbook\bin\System.Web.WebPages.Deployment.dll
+\\Mac\Home\Desktop\Nearbook\Nearbook\bin\System.Web.WebPages.dll
+\\Mac\Home\Desktop\Nearbook\Nearbook\bin\System.Web.WebPages.Razor.dll
+\\Mac\Home\Desktop\Nearbook\Nearbook\bin\WebGrease.dll
+\\Mac\Home\Desktop\Nearbook\Nearbook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\Mac\Home\Desktop\Nearbook\Nearbook\bin\Newtonsoft.Json.xml
+\\Mac\Home\Desktop\Nearbook\Nearbook\bin\System.Net.Http.Formatting.xml
+\\Mac\Home\Desktop\Nearbook\Nearbook\bin\System.Web.Helpers.xml
+\\Mac\Home\Desktop\Nearbook\Nearbook\bin\System.Web.Http.xml
+\\Mac\Home\Desktop\Nearbook\Nearbook\bin\System.Web.Http.WebHost.xml
+\\Mac\Home\Desktop\Nearbook\Nearbook\bin\System.Web.Mvc.xml
+\\Mac\Home\Desktop\Nearbook\Nearbook\bin\System.Web.Optimization.xml
+\\Mac\Home\Desktop\Nearbook\Nearbook\bin\System.Web.Razor.xml
+\\Mac\Home\Desktop\Nearbook\Nearbook\bin\System.Web.WebPages.xml
+\\Mac\Home\Desktop\Nearbook\Nearbook\bin\System.Web.WebPages.Deployment.xml
+\\Mac\Home\Desktop\Nearbook\Nearbook\bin\System.Web.WebPages.Razor.xml
+\\Mac\Home\Desktop\Nearbook\Nearbook\bin\Antlr3.Runtime.pdb
+\\Mac\Home\Desktop\Nearbook\Nearbook\bin\EntityFramework.xml
+\\Mac\Home\Desktop\Nearbook\Nearbook\bin\EntityFramework.SqlServer.xml
+\\Mac\Home\Desktop\Nearbook\Nearbook\bin\Microsoft.AspNet.Identity.Core.xml
+\\Mac\Home\Desktop\Nearbook\Nearbook\bin\Microsoft.AspNet.Identity.Owin.xml
+\\Mac\Home\Desktop\Nearbook\Nearbook\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+\\Mac\Home\Desktop\Nearbook\Nearbook\bin\Microsoft.Owin.xml
+\\Mac\Home\Desktop\Nearbook\Nearbook\bin\Microsoft.Owin.Host.SystemWeb.xml
+\\Mac\Home\Desktop\Nearbook\Nearbook\bin\Microsoft.Owin.Security.xml
+\\Mac\Home\Desktop\Nearbook\Nearbook\bin\Microsoft.Owin.Security.Facebook.xml
+\\Mac\Home\Desktop\Nearbook\Nearbook\bin\Microsoft.Owin.Security.Cookies.xml
+\\Mac\Home\Desktop\Nearbook\Nearbook\bin\Microsoft.Owin.Security.OAuth.xml
+\\Mac\Home\Desktop\Nearbook\Nearbook\bin\Microsoft.Owin.Security.Google.xml
+\\Mac\Home\Desktop\Nearbook\Nearbook\bin\Microsoft.Owin.Security.Twitter.xml
+\\Mac\Home\Desktop\Nearbook\Nearbook\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+\\Mac\Home\Desktop\Nearbook\Nearbook\bin\System.Web.Http.Owin.xml
+\\Mac\Home\Desktop\Nearbook\Nearbook\obj\Debug\Nearbook.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\Nearbook\Nearbook\obj\Debug\Nearbook.Migrations.InitialCreate.resources
+\\Mac\Home\Desktop\Nearbook\Nearbook\obj\Debug\Nearbook.csproj.GenerateResource.Cache
+\\Mac\Home\Desktop\Nearbook\Nearbook\obj\Debug\Nearbook.dll
+\\Mac\Home\Desktop\Nearbook\Nearbook\obj\Debug\Nearbook.pdb
